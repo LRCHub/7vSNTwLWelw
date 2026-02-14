@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Ask him.",
+  "base_artist": "the shes gone",
+  "createdAt": "2026-02-14T01:26:24.409509Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ask Him in",
+      "artist": "Petra",
+      "has_synced": true,
+      "path": "select/01_Ask_Him_in_Petra.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'll Ask Him",
+      "artist": "Girl in a Coma",
+      "has_synced": true,
+      "path": "select/02_I'll_Ask_Him_Girl_in_a_Coma.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ask Him",
+      "artist": "Craig Morgan",
+      "has_synced": true,
+      "path": "select/03_Ask_Him_Craig_Morgan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ask him.",
+      "artist": "the shes gone",
+      "has_synced": false,
+      "path": "select/04_Ask_him._the_shes_gone.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ask Him To",
+      "artist": "Mark Owen",
+      "has_synced": true,
+      "path": "select/05_Ask_Him_To_Mark_Owen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ASK HIM OUT!",
+      "artist": "JUKO; nuumi; ecocyde",
+      "has_synced": true,
+      "path": "select/06_ASK_HIM_OUT!_JUKO;_nuumi;_ecocyde.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ASK HIM OUT!",
+      "artist": "Arlie, JUKO, nuumi & ecocyde",
+      "has_synced": true,
+      "path": "select/07_ASK_HIM_OUT!_Arlie,_JUKO,_nuumi_&_ecocyde.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I`ll Ask Him",
+      "artist": "Girl in a Coma",
+      "has_synced": true,
+      "path": "select/08_I`ll_Ask_Him_Girl_in_a_Coma.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ask him.",
+      "artist": "the shes gone",
+      "has_synced": false,
+      "path": "select/pl_01_Ask_him._the_shes_gone.txt"
+    }
+  ]
+}
